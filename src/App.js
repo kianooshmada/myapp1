@@ -50,7 +50,7 @@ function App() {
   return (
     <div className="App">
       <Wrapper>
-        <Title>Hello World!</Title>
+        <Title>Hi World!</Title>
       </Wrapper>
       <Container>
         <Button>Normal Button</Button>
